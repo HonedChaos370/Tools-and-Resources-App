@@ -14,7 +14,7 @@ export default class Title extends Component {
 
 const styles = {
   header: {
-    backgroundColor: "#80bbff",
+    backgroundColor: "#0080ff",
     padding: 15
   },
   title: {
